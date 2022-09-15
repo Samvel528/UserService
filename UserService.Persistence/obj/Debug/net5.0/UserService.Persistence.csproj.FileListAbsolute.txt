@@ -1,0 +1,17 @@
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\UserService.Persistence.csproj.AssemblyReference.cache
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\UserService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\UserService.Persistence.AssemblyInfoInputs.cache
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\UserService.Persistence.AssemblyInfo.cs
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\UserService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\samve\source\repos\UserService\UserService.Persistence\bin\Debug\net5.0\UserService.Persistence.deps.json
+C:\Users\samve\source\repos\UserService\UserService.Persistence\bin\Debug\net5.0\UserService.Persistence.dll
+C:\Users\samve\source\repos\UserService\UserService.Persistence\bin\Debug\net5.0\UserService.Persistence.pdb
+C:\Users\samve\source\repos\UserService\UserService.Persistence\bin\Debug\net5.0\UserService.Application.dll
+C:\Users\samve\source\repos\UserService\UserService.Persistence\bin\Debug\net5.0\UserService.Domain.dll
+C:\Users\samve\source\repos\UserService\UserService.Persistence\bin\Debug\net5.0\UserService.Application.pdb
+C:\Users\samve\source\repos\UserService\UserService.Persistence\bin\Debug\net5.0\UserService.Domain.pdb
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\UserService.Persistence.csproj.CopyComplete
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\UserService.Persistence.dll
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\refint\UserService.Persistence.dll
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\UserService.Persistence.pdb
+C:\Users\samve\source\repos\UserService\UserService.Persistence\obj\Debug\net5.0\ref\UserService.Persistence.dll
