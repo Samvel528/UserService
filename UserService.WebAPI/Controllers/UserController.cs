@@ -7,6 +7,7 @@ using UserService.Application.Users.Commands.DeleteUser;
 using UserService.Application.Users.Commands.UpdateUser;
 using UserService.Application.Users.Queries.GetUsers;
 using UserService.WebAPI.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace UserService.WebAPI.Controllers
 {
@@ -18,6 +19,7 @@ namespace UserService.WebAPI.Controllers
         public UserController(IMapper mapper) => _mapper = mapper;
 
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<UserListVM>> GetAll()
         {
             var query = new GetUsersQuery();
@@ -27,6 +29,7 @@ namespace UserService.WebAPI.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<Guid>> Create([FromBody] CreateUserDTO createUserDTO)
         {
             var command = _mapper.Map<CreateUserCommand>(createUserDTO);
@@ -36,6 +39,7 @@ namespace UserService.WebAPI.Controllers
         }
 
         [HttpPut]
+        [Authorize]
         public async Task<IActionResult> Update([FromBody] UpdateUserDTO updateUserDTO)
         {
             var command = _mapper.Map<UpdateUserCommand>(updateUserDTO);
@@ -45,6 +49,7 @@ namespace UserService.WebAPI.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<IActionResult> Delete(Guid id)
         {
             var command = new DeleteUserCommand

@@ -64,3 +64,15 @@ C:\Users\samve\source\repos\UserService\UserService.WebAPI\obj\Debug\net5.0\refi
 C:\Users\samve\source\repos\UserService\UserService.WebAPI\obj\Debug\net5.0\UserService.WebAPI.pdb
 C:\Users\samve\source\repos\UserService\UserService.WebAPI\obj\Debug\net5.0\UserService.WebAPI.genruntimeconfig.cache
 C:\Users\samve\source\repos\UserService\UserService.WebAPI\obj\Debug\net5.0\ref\UserService.WebAPI.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samve\source\repos\UserService\UserService.WebAPI\obj\Debug\net5.0\UserService.WebAPI.MvcApplicationPartsAssemblyInfo.cs
